@@ -1,1 +1,3 @@
-# Car_Project - Academic project
+# Car Project - Academic project
+
+Basic of object-oriented programming in C++.
