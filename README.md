@@ -1,3 +1,3 @@
 # Car Project - Academic project
 
-Basic of object-oriented programming in C++.
+Basics of object-oriented programming in C++.
